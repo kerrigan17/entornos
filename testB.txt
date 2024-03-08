@@ -1,1 +1,0 @@
-The letter should be B al en la rama test_branch_B.
